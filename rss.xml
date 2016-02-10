@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jody Johnston]]></title>
         <description><![CDATA[Jody Johnston]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jody-johnston/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 19:28:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 19:31:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jody-johnston/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66af4339-cdfa-49cc-89b3-313851cf11d4.jpg">]]></description>
+            <link>https://thegrid.ai/jody-johnston/aef48722-e911-41c7-95d2-6a7f6bb10446/index.html</link>
+            <guid isPermaLink="false">aef48722-e911-41c7-95d2-6a7f6bb10446</guid>
+            <pubDate>Wed, 10 Feb 2016 19:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d58306c-fe37-4408-9a76-28519cd9a7a5.jpg">]]></description>
-            <link>undefinedf70987b9-7687-4b86-9e6a-8a6f6d18c08a/index.html</link>
+            <link>https://thegrid.ai/jody-johnston/f70987b9-7687-4b86-9e6a-8a6f6d18c08a/index.html</link>
             <guid isPermaLink="false">f70987b9-7687-4b86-9e6a-8a6f6d18c08a</guid>
             <pubDate>Wed, 10 Feb 2016 19:27:53 GMT</pubDate>
         </item>
